@@ -38,19 +38,6 @@ HTML
 
 🎮 Getting Started
 
-    Clone the repository:
-    Bash
-
-    git clone https://github.com/your-username/tic-tac-toe.git
-
-    Install dependencies:
-    Bash
-
-    npm install
-
-    Start the development server:
-    Bash
-
     npm run dev
 
 
