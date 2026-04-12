@@ -38,7 +38,4 @@ HTML
 
 🎮 Getting Started
 
-    npm run dev
-
-
     🌐 : https://tacreact.netlify.app/
