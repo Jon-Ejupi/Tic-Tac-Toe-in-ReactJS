@@ -1,4 +1,4 @@
-Tailwind Tic-Tac-Toe
+React Tic-Tac-Toe
 
 A modern, responsive Tic-Tac-Toe game built with React, TypeScript, and Tailwind CSS. This project demonstrates clean component architecture, state management, and utility-first styling.
 🚀 Features
@@ -52,3 +52,6 @@ HTML
     Bash
 
     npm run dev
+
+
+    🌐 : https://tacreact.netlify.app/
